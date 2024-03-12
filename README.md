@@ -1,6 +1,5 @@
-# COSC354-Midterm
+# COSC354-Midterm: Android Malware Detection Project
 
-# Android Malware Detection Project
 ## Overview
 This project focuses on developing machine learning models to detect malware on Android systems. By leveraging a dataset comprising various application behaviors and characteristics, we aim to distinguish between benign and malicious applications. The project explores different machine learning approaches, including Logistic Regression and Feedforward Neural Networks, to identify the most effective strategies for malware detection.
 
