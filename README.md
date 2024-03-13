@@ -16,6 +16,6 @@ The dataset used in this project includes features extracted from numerous Andro
 ## Performance Summary
 The models were evaluated based on their F1 scores, balancing precision and recall:
 
-All Positive Baseline: Training - 0.630, Validation - 0.629
-Experiment #1 (Logistic Regression): Training - 0.766, Validation - 0.765
-Experiment #2 (Feedforward Neural Network): Training - 0.894, Validation - 0.894
+- All Positive Baseline: Training - 0.630, Validation - 0.629
+- Experiment #1 (Logistic Regression): Training - 0.766, Validation - 0.765
+- Experiment #2 (Feedforward Neural Network): Training - 0.894, Validation - 0.894
